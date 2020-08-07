@@ -1,3 +1,3 @@
-module example.go/hello.go
+module github.com/cyberpuff/hello
 
 go 1.14
